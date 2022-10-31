@@ -35,6 +35,18 @@ const Skills = () => {
                   <img className='w-24 mx-auto mt-12 mb-7' src={"https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png"} alt="HTML icon" />
                   <p className='my-4 text-2xl'>TAILWIND CSS</p>
               </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <img className='w-24 mx-auto mt-12 mb-7' src={"https://img.icons8.com/office/80/000000/express-js.png"} alt="HTML icon" />
+                  <p className='my-4 text-2xl'>ExpressJs</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <img className='w-24 mx-auto mt-12 mb-7' src={"https://img.icons8.com/color/96/000000/mongodb.png"} alt="HTML icon" />
+                  <p className='my-4 text-2xl'>MongoDB</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <img className='w-24 mx-auto mt-12 mb-7' src={"https://img.icons8.com/color/96/000000/figma--v1.png"} alt="HTML icon" />
+                  <p className='my-4 text-2xl'>Figma</p>
+              </div>
               {/* <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={""} alt="HTML icon" />
                   <p className='my-4'></p>
